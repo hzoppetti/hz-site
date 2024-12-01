@@ -1,0 +1,32 @@
+{{- with site.Params.homeInfoParams }}
+<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
+<article class="first-entry home-info">
+    <!-- <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header> -->
+    <div class="home-container">
+        <h2 class="h2">Hello,</h2>
+        <h1 class="h1">
+            I'm Heather Zoppetti<span class="fancy">.</span>
+        </h1>
+        <span className="handle">
+            <p class="multipleStrings">
+        </span>
+        <h2 class="h2">Welcome to my website.</h2>
+        <span className="handle">
+            I made this site because all the cool kids have one.
+        </span>
+        <footer class="entry-footer">
+            {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+        </footer>
+    </div>
+</article>
+<script>
+new TypeIt(".multipleStrings", {
+    strings: ["Software engineer.", "Technical writer.", "Writer.", "Human."],
+    breakLines: false,
+    // loop: true,
+    speed: 50
+}).go();
+</script>
+{{- end -}}
