@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog"
-summary: Welcome to Heather Zoppetti's blog
+summary: "Welcome to Heather Zoppetti's blog"
 date: 2024-03-25
 tags: ["rambles", "posts"]
 author: "Heather Zoppetti"

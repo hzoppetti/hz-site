@@ -1,6 +1,6 @@
 ---
 title: "About me"
-summary: About Heather Zoppetti
+summary: "About Heather Zoppetti"
 date: 2024-04-02
 tags: ["rambles", "posts"]
 author: "Heather Zoppetti"
