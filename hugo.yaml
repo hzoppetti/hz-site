@@ -52,6 +52,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
+  ShareButtons: ["linkedin", "reddit", "bluesky", "facebook"]
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -92,7 +93,7 @@ params:
     - name: linkedin
       title: View my profile on LinkedIn
       url: "https://www.linkedin.com/in/heather-zoppetti/"
-    - name: twitter
+    - name: bluesky
       title: Heather on Bluesky
       url: "https://bsky.app/profile/digitalnabi.bsky.social"
 
