@@ -15,7 +15,7 @@ Anna sensed the hidden world all around her. Sometimes she heard whispers when s
 
 Anna enjoyed helping her aunt. She was a fun, loving woman who raised her after she lost her parents as a baby. In the shop, the two of them enjoyed discovering old objects and fabricating stories about their pasts.
 
-The only other place she loved in the same way was faraway, a place that she saw in her dreams. A mystery lake in the mountains--Lake Asa. She yearned to travel there but didn’t understand why. She tried to locate it once, but couldn’t find it on any map.
+The only other place she loved in the same way was faraway, a place that she saw in her dreams. A mystery lake in the mountains---Lake Asa. She yearned to travel there but didn’t understand why. She tried to locate it once, but couldn’t find it on any map.
 
 In the shop, she hoped to find a portal to another realm, like the children in the books she enjoyed reading. She thought maybe, just maybe, she would open an ancient piece of furniture and step into Narnia or stumble into Fillory.
 
@@ -35,7 +35,7 @@ Anna peered at her reflection. She would ask her aunt later if she could keep th
 
 She attempted to tame her dark hair. Her curls had a mind of their own, and especially in the summer heat, they flew off in every direction. As she tried her best to subdue her wild locks, she eyed something on the table behind her.
 
-On the table’s edge--bold as could be--sat a mouse. She let out a shriek. “Eek!” and whirled around. But the mouse had gone; it must have scampered off.
+On the table’s edge---bold as could be---sat a mouse. She let out a shriek. “Eek!” and whirled around. But the mouse had gone; it must have scampered off.
 
 “What’s wrong Anna?” Her aunt called out from the front of the shop.
 
@@ -49,7 +49,7 @@ Anna went back to tending to her hair. When she glanced in the mirror again, the
 
 She stared into the mirror, ignoring her hair. The mouse sat on the edge of the table and _waved_. A shy, tiny mouse wave, but a wave, regardless.
 
-Anna didn’t know what to do, so she waved back--she didn’t want to be rude. The mouse gestured for her to follow as he ran off, so she did.
+Anna didn’t know what to do, so she waved back---she didn’t want to be rude. The mouse gestured for her to follow as he ran off, so she did.
 
 Keeping the mouse in sight through the mirror proved difficult. She tried not to stumble while holding the mirror and navigating through the shop. She knew these aisles, but seeing everything in reverse disoriented her.
 
@@ -69,7 +69,7 @@ She could hear them then, whispering in her ears. Although, she thought, maybe t
 
 “We’re from another world, Oretak. The mirror lets you see more clearly into ours. Our world is in danger, as is yours. We’ve been searching for someone like yourself; someone who might save us. When we found you, we sent you the mirror,” Lem said.
 
-“Oh, and that beast?" Mel added. "Cats are special; they exist naturally in both realms. But they won’t help us--selfish animals--we’ve tried to appeal to them but they don’t care.”
+“Oh, and that beast?" Mel added. "Cats are special; they exist naturally in both realms. But they won’t help us---selfish animals---we’ve tried to appeal to them but they don’t care.”
 
 Anna chuckled. That sounded like Humphrey. “Someone like me?” she asked.
 
@@ -97,13 +97,13 @@ The mice nodded their heads, excited. “It must be in Oretak, in our world! You
 
 “Go through the mirror,” they said together.
 
-Anna thought about it. This was the adventure she had been waiting for, but she hesitated. She thought about stories she had read and how the girls who went to other worlds always had a bad time of it--Alice, for example, and Dorothy. But they always got home in the end, didn’t they?
+Anna thought about it. This was the adventure she had been waiting for, but she hesitated. She thought about stories she had read and how the girls who went to other worlds always had a bad time of it---Alice, for example, and Dorothy. But they always got home in the end, didn’t they?
 
 “Okay, how do I go through the mirror?”
 
 “Put your nose to the mirror and speak the name of your destination.”
 
-And so, she took a deep breath, closed her eyes, and with her nose on the mirror said, “Lake Asa”. At first, she thought nothing happened because she didn’t feel anything happening. She expected some whirl of magic or a dramatic gust of wind--but nothing like that occurred. Disappointed, she lowered the mirror.
+And so, she took a deep breath, closed her eyes, and with her nose on the mirror said, “Lake Asa”. At first, she thought nothing happened because she didn’t feel anything happening. She expected some whirl of magic or a dramatic gust of wind---but nothing like that occurred. Disappointed, she lowered the mirror.
 
 When she opened her eyes, she was astonished to see that she was no longer in her aunt’s antique shop.
 
@@ -111,7 +111,7 @@ When she opened her eyes, she was astonished to see that she was no longer in he
 
 Lake Asa took her breath away. A crystal smooth lake in a wide mountain valley, the surface so calm that it perfectly reflected the bright blue sky and puffy white clouds overhead. It looked just like it had in her dreams. Snow-capped mountains surrounded it, and tall evergreen trees and scrubby bushes encircled it. Anna wished she could capture the scene forever in a painting so she could show her aunt when she returned.
 
-She felt that same--but much, much stronger--feeling she perceived in the antique shop. That other-worldliness permeated everything. The trees, the grass, the rocks--everything vibrated with echoes of Katero, her home. She sensed the worlds pressing on each other. Elements of Oretak and Katero collided, threatening to destroy each other.
+She felt that same---but much, much stronger---feeling she perceived in the antique shop. That other-worldliness permeated everything. The trees, the grass, the rocks---everything vibrated with echoes of Katero, her home. She sensed the worlds pressing on each other. Elements of Oretak and Katero collided, threatening to destroy each other.
 
 Anna walked toward the lake, Lem and Mel secure on her shoulders. By the shore, she saw a woman sitting on a large, flat rock.
 
@@ -133,7 +133,7 @@ Anna followed her gaze. There it surprised her to see not the reflection of the 
 
 The woman gave a forlorn sigh. “I am Syl, and that is Lys. He’s my partner, my lover. An evil wizard cursed and separated us. Lys is my heart and my life. We cannot bear to be away from each other.
 
-“When we were first torn apart, l broke--I lost myself. I can’t express the crushing torture my heart endured, the anguish as my innermost self suffered alone. My life drained away, and it devastated me. He was and is everything to me, and I to him. And then I found him here, in this lake. So we stay this way. Together, but so far away.”
+“When we were first torn apart, l broke---I lost myself. I can’t express the crushing torture my heart endured, the anguish as my innermost self suffered alone. My life drained away, and it devastated me. He was and is everything to me, and I to him. And then I found him here, in this lake. So we stay this way. Together, but so far away.”
 
 Anna understood then. These two people, cursed to live apart, one in Oretak and one in Katero. Their love was magnetic, a love with the strength to attract each other with a passion so formidable that their worlds now collided.
 
@@ -145,7 +145,7 @@ A tear ran down Syl’s cheek.
 
 Syl shook her head.
 
-“Syl, what’s happening--what you’re doing--it’s breaking the world. Two worlds. If you continue, both will collapse.”
+“Syl, what’s happening---what you’re doing---it’s breaking the world. Two worlds. If you continue, both will collapse.”
 
 “Then this can end, and I can be with Lys once again.”
 
@@ -155,11 +155,11 @@ Syl let another tear fall silently. “I would,” she whispered.
 
 Anna thought she needed to try something other than reason with Syl, because love was unreasonable and illogical. She couldn’t ask her to give up on love. Surely there was some way to break the curse, uniting them without breaking both worlds.
 
-This was a soft spot. Maybe objects could pass through a soft spot. The only method she knew, she gripped in her hand--the mirror. However, that was her only way home. If she gave it to Syl, she wouldn’t be able to get back herself.
+This was a soft spot. Maybe objects could pass through a soft spot. The only method she knew, she gripped in her hand---the mirror. However, that was her only way home. If she gave it to Syl, she wouldn’t be able to get back herself.
 
 Was she willing to stay here forever, in Oretak? Staying would mean she would never see her aunt again. It would mean she could never go back to her school, to the antique shop, and she would give up her life and her home. But as she looked at Syl, her heart broke for their love. And she knew deep in her core that she would do it.
 
-She didn’t know the heartache Syl had experienced, but it must be tremendous to be pulling worlds towards destruction, to annihilate two realms. She didn’t want to imagine a pain so deep, a loss so strong--and she didn’t want to cause such a wound.
+She didn’t know the heartache Syl had experienced, but it must be tremendous to be pulling worlds towards destruction, to annihilate two realms. She didn’t want to imagine a pain so deep, a loss so strong---and she didn’t want to cause such a wound.
 
 “Syl, what if I had a way for you to go to Lys? A portal that would take you to his world.”
 

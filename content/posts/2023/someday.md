@@ -11,7 +11,7 @@ hiddenInHomelist: true
 
 > It has been updated and edited for post to this site.
 
-Mai stirred. She pulled the blanket around her for warmth--she had never been this cold. The damp darkness enveloped her in this strange place so far from her jungle homeland. It seeped into her bones and made her feel brittle and weak.
+Mai stirred. She pulled the blanket around her for warmth---she had never been this cold. The damp darkness enveloped her in this strange place so far from her jungle homeland. It seeped into her bones and made her feel brittle and weak.
 
 She had escaped to this frozen land only a month ago. Then it had been golden and full of bright colors: red, yellow, and orange. Over the last month, the colors of nature had slowly faded to grey and brown and white as it died. The Smiths called it winter.
 
@@ -21,7 +21,7 @@ Her home never got cold. It was a verdant land with endless jungles and tropical
 
 The Smiths were a kind couple who had agreed to hide her, and she was thankful they had accepted this dangerous burden.
 
-If either the Alalani or Evren government found out, they would haul her back to the Yanoura jungle. Both nations had agreed to an extradition treaty in their attempt at peace. That worked out for criminals. But they forgot about the people stuck in the middle--the young people fleeing to Alalani trying to escape Evren trafficking. It wasn’t Alalani’s fault; they were working for the greater good, or so they said. Unfortunately, little folks like her fell through the cracks. That’s what Mister Smith said. And so she hid.
+If either the Alalani or Evren government found out, they would haul her back to the Yanoura jungle. Both nations had agreed to an extradition treaty in their attempt at peace. That worked out for criminals. But they forgot about the people stuck in the middle---the young people fleeing to Alalani trying to escape Evren trafficking. It wasn’t Alalani’s fault; they were working for the greater good, or so they said. Unfortunately, little folks like her fell through the cracks. That’s what Mister Smith said. And so she hid.
 
 Hugging the blanket for warmth, Mai moved to the single window of her lonely basement hideaway. The Smiths hid her here out of kindness, she knew, but she longed for the sun. The small window allowed only a faint amount of light. Though isolated, she felt safe.
 
@@ -29,11 +29,11 @@ Mai’s small hands grasped the rim of the windowsill, and her eyes peeked over 
 
 Echoes of memories flashed in her mind. Bombs. She hadn't heard any explosions. Surely bombs would have woken her. She would have felt any close enough to be dropping ash.
 
-Her foot found a box, and she stepped up onto it to get a better look outside, her eyes growing wide. The children--they played? They scooped up big piles of the stuff and threw it at each other. They were laughing.
+Her foot found a box, and she stepped up onto it to get a better look outside, her eyes growing wide. The children---they played? They scooped up big piles of the stuff and threw it at each other. They were laughing.
 
 Up and down the street they ran and played and lay down in it, rolling around in the white stuff. They packed it into balls and tossed it at one another. Older people shoveled it, tossing it into piles. Everyone, young and old, smiled and reveled.
 
-The flakes continued to fall. But, no, it wasn’t ash. Light and clean, it shimmered in the sun--not ash at all--snow. Mai had heard about the snow. Snow was rain, each drop frozen in time forming a beautiful flake, each one unique and beautiful.
+The flakes continued to fall. But, no, it wasn’t ash. Light and clean, it shimmered in the sun---not ash at all---snow. Mai had heard about the snow. Snow was rain, each drop frozen in time forming a beautiful flake, each one unique and beautiful.
 
 Footsteps sounded on the stairs, and Mai scrambled down off her box. Her heart pounded and sweat beaded on her forehead. Would today be the day? Were they coming for her? Had a neighbor seen her and reported the Smiths to the authorities for a reward?
 
@@ -41,9 +41,9 @@ Mai needed to hide. She scrambled to uncover the secret door under the stairs an
 
 “Mai, it’s me. I have a surprise for you,” Mister Smith said.
 
-Mai’s pulse slowed, and she took some deep breaths. It was just Mister Smith. Or it sounded like him--it could be a trick--maybe someone had coerced him. She listened as he finished descending the stairs and made his special knock. Knock-knock-pause-knock-pause-knock-knock. Safe.
+Mai’s pulse slowed, and she took some deep breaths. It was just Mister Smith. Or it sounded like him---it could be a trick---maybe someone had coerced him. She listened as he finished descending the stairs and made his special knock. Knock-knock-pause-knock-pause-knock-knock. Safe.
 
-She emerged from her hiding place and sat on the bed the Smiths had kept for her in their basement. Mister Smith rarely brought her surprises. Maybe he had more books for her--she loved books. While locked down here, she devoured them, spending her hours traveling to faraway places through the pages of books.
+She emerged from her hiding place and sat on the bed the Smiths had kept for her in their basement. Mister Smith rarely brought her surprises. Maybe he had more books for her---she loved books. While locked down here, she devoured them, spending her hours traveling to faraway places through the pages of books.
 
 The door opened and Mister Smith entered her basement sanctuary holding a big red bucket. He sat next to her and set the bucket down. “I’m sorry you can’t go out.” He looked down, frowning. “But today, I brought some of the outside in to you.” He reached into the bucket and scooped out some white powder.
 
